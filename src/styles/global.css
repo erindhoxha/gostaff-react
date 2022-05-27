@@ -63,9 +63,11 @@ html {
 
 .active {
   color: white;
+  transition:0.3s ease;
 }
 .active a, .active span, .active i {
   color: white;
+  transition:0.3s ease;
 }
 
 /*# sourceMappingURL=global.css.map */
