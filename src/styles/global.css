@@ -48,6 +48,7 @@ html {
   border-radius: 10px;
   padding: 1rem;
 }
+
 .breadcrumbs {
   margin-bottom: 24px;
 }
@@ -58,6 +59,13 @@ html {
 .breadcrumbs span:last-of-type {
   font-weight: bold !important;
   color: rgb(23, 23, 23);
+}
+
+.active {
+  color: white;
+}
+.active a, .active span, .active i {
+  color: white;
 }
 
 /*# sourceMappingURL=global.css.map */

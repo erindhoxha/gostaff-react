@@ -47,8 +47,6 @@ $black: rgb(23, 23, 23);
     background-color:rgb(232, 232, 232);
     border-radius:10px;
     padding:1rem;
-    h3 {
-    }
 }
 
 .breadcrumbs {
@@ -61,4 +59,11 @@ $black: rgb(23, 23, 23);
         font-weight:bold !important;
         color:$black;
     }
+}
+
+.active {
+    a, span, i {
+        color:white;
+    }
+    color:white;
 }

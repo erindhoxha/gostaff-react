@@ -11,7 +11,6 @@ import {
   Route,
 } from "react-router-dom";
 import App from './App';
-import Invoices from './routes/manage';
 import Header from './components/Header/Header';
 import Sidebar from './components/Sidebar/Sidebar';
 import Staff from './routes/staff';
